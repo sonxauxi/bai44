@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+
+.box2 {
+    float: left;
+}
+
+.red2{ 
+    height: 400px;
+    color: red;
+    background-color: red;
+    border-color: red;
+    width: 49.44515%;     
+    margin-right: 15px;
+}
+.green2 {
+    border-color: springgreen; 
+    height: 200px;
+    background-color: springgreen;
+    color:springgreen; 
+    width: 49.44515%;    
+}
+.blue2 {
+    border-color: blue;
+    height: 200px;
+    width: 49.44515%;    
+    background-color: blue;
+    color: blue;
+}
